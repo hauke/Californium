@@ -48,6 +48,8 @@
 
 	<modules>
 		<module>californium</module>
+		<module>cf-echo-client</module>
+		<module>cf-echo-server</module>
 		<module>cf-helloworld-client</module>
 		<module>cf-helloworld-server</module>
 		<module>cf-client</module>
